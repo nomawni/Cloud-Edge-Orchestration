@@ -1,0 +1,8 @@
+
+services:
+  web1:
+    build: 
+      context: ./web1
+      dockerfile: ./Dockerfile
+      args:
+        - name=value

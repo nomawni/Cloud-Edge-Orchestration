@@ -1,0 +1,14 @@
+containers:
+  networks: [backend, frontend]
+  image: FROM python:3.8.12
+  list:
+    web01:
+      network: backend
+      primary: true
+      directory: edge_1
+    web02:
+      network: backend
+      directory: edge_2
+    web03:
+      network: backend
+      directory: edge_3

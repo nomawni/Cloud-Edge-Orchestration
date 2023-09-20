@@ -1,0 +1,19 @@
+{
+    "servers": [
+        {
+            "server_url": "https://141.13.5.134",
+            "port": "5000",
+            "selected": false
+        },
+        {
+            "server_url": "edge02",
+            "port": "5000",
+            "selected": false
+        },
+        {
+            "server_url": "https://141.13.5.136",
+            "port": "5000",
+            "selected": false
+        }
+    ]
+}

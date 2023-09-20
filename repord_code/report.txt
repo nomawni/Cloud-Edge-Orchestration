@@ -1,0 +1,2 @@
+Load_blancer: Does work, but not efficient
+Loadbalance: It is optimized, but it is not working for the moment
